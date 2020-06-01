@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "705481094420",
+    "firebase_url": "https://jameel-bc480.firebaseio.com",
+    "project_id": "jameel-bc480",
+    "storage_bucket": "jameel-bc480.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705481094420:android:5f610a6e8717195c99fe01",
+        "android_client_info": {
+          "package_name": "com.jameel.jameel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705481094420-4c5s95rugg3dnce2q3fuco048e97m5vg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jameel.jameel",
+            "certificate_hash": "fd9331277febcb42606fa10109d2638617aadce0"
+          }
+        },
+        {
+          "client_id": "705481094420-hedglu51usi3hlhuj39718gd7otu5heh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxMXXaP52-X-yQjLAWdTWV42HmFVY6E3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705481094420-hedglu51usi3hlhuj39718gd7otu5heh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "705481094420-l524df8chchdompa7j558dirtb2bruns.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jameel.jameel"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
